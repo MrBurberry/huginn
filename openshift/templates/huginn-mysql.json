@@ -1,6 +1,6 @@
 {
     "kind": "Template",
-    "apiVersion": "apps/v1",
+    "apiVersion": "extensions/v1beta",
     "metadata": {
         "name": "huginn-mysql-persistent",
         "annotations": {
